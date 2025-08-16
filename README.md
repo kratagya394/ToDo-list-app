@@ -28,11 +28,12 @@ A simple and clean to-do list web app built with HTML, CSS, and JavaScript. Easi
 - The main logic is in `script.js`.
 
 ## Screenshot
-![Screenshot](todolist.png)
+![Screenshot](todo list.png)
 
 ---
 
 **Author:** Kratagya Verma
 
 Feel free to use, modify, and share this project!
+
 
